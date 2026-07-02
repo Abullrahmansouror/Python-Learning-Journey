@@ -1,7 +1,7 @@
 ## Notes for Day 1 of learning pyhton ##
 
 ## 1- What I have learned :
-* input()
+input()
 - Is a function that asks the user to type something and returns what they typed.
 - You can ask for the name, age, address and eny information can be stored in python.
 
@@ -10,7 +10,7 @@ name = input("What's your name? ")
 Python stores "Abdulrhman" in the variable "name".
 
 
-* print("...")
+print("...")
 - It's a function can display something on the screen, that I'm writing between "...".
 
 Example :
