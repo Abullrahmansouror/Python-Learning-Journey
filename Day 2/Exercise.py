@@ -1,10 +1,10 @@
-## Here I'm aksing the user for number.
-number = int(input(" What's the number ? "))
+## Exercies 6
+x = int(input(" First number: "))
+y = int(input(" Second number: "))
+z = int(input(" Third number: "))
 
-## I'm tell the program if the number equal to 5 or 10 write "Correct number".
-if number == 5 or number == 10:
-    print("Correct number!")
+if x == y == z:
+    print("All numbers are equal")
 
-## I'm tell the program if the number not equal to 5 or 10 write "wrong number".
 else:
-    print("Wrong number!")
+    print("At least one number is different")
