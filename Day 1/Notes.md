@@ -5,16 +5,16 @@
 - Is a function that asks the user to type something and returns what they typed.
 - You can ask for the name, age, address and eny information can be stored in python.
 Example : 
-name = input("What's your name? ")
-print("Hello, " + name) 
-Python stores "Abdulrhman" in the variable "name".
+    name = input("What's your name? ")
+    print("Hello, " + name) 
+    Python stores "Abdulrhman" in the variable "name".
 
 
 **print("...")**
 - It's a function can display something on the screen, that I'm writing between "...".
 Example :
-print("Hello world, ")
-Pyhton will display what you write between "...".
+    print("Hello world, ")
+    Pyhton will display what you write between "...".
 
 
 **Bug**
@@ -27,41 +27,52 @@ Pyhton will display what you write between "...".
 
 **Variable**
 - Variables can store a value (Numbers, Name, Info...) in the program.
-name = input("What's your name ? ") **The variable here is name**
+    name = input("What's your name ? ") **The variable here is name**
 
 
 **Separator**
 - sep (separator): Specifies what is printed between multiple objects in print(). It only works when the objects are separated with commas ,, not when they are joined with +.
 Example :
-print(name, age, sep='-') **this is working**
-print(name + age + sep='-') **doesn't working**
+    print(name, age, sep='-') **this is working**
+    print(name + age + sep='-') **doesn't working**
 
 
 **Remove the whitspace in output**
 Example :
-name = name.strip()
+    name = name.strip()
 
 
 **Capitalize the output**
 Example : 
-name = name.capitalize()
+    name = name.capitalize()
 
 
 **Capitalize the output (The first word and second)**
-name = name.title()
+    name = name.title()
 
 
 **Calculator**
 - I use int to convert the str into integer.
 Example :
-x = int(input("x : "))
-y = int(input("y : "))
+    x = int(input("x : "))
+    y = int(input("y : "))
 
 
 **Float**
 - It's uses to calculat the decimal numbers (Ex : 6.67).
 Example :
-x = float(input("x : "))
+    x = float(input("x : "))
+
+**string**
+- It's any thing type in ("")
+Example: 
+    print("Any thing type here is a string")
+
+
+**Integer**
+- It's any numbers type in python.
+Example:
+    print(12 any thing type without "" is integer)
 
 
 ## 2- The chalnges I face :
