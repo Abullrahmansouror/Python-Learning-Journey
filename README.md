@@ -5,7 +5,7 @@ Welcome to my **Python Learning Journey**!
 This repository documents my progress as I learn Python from the ground up. My goal is not only to learn the language but also to build a habit of documenting what I learn every day.
 
 ## About This Repository
-### test heading
+
 This repository serves as my personal learning journal. Each learning day has its own folder containing:
 
 * Notes explaining the concepts I learned.
