@@ -11,26 +11,26 @@
   - Boolean: A value that can only be True or False.
 
 Example:
-# variable string
+### variable string
 first_name = "Abdulrhman"
 print(first_name)
 
-# Also I can write it like this
+### Also I can write it like this
 first_name = "Abdulrhman"
 print(f"Hello {first_name}")
 
 
-# variable integer
+### variable integer
 birth = 2007
 print(f"Your birth is {birth} Thanks!")
 
 
-# variable float
+### variable float
 price = 10.99
 print(f"Item price {price} after discount")
 
 
-# variable boolean
+### variable boolean
 is_student = True
 if is_student == True:
     print("You are a student")
