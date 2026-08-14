@@ -1,4 +1,4 @@
-## **DAY 1 OF PYTHON LEARNING JOURNEY**
+## **DAY 2 OF PYTHON LEARNING JOURNEY**
 
 ### What I have learned:
 - Typecast: changing one data type into another.
