@@ -1,4 +1,4 @@
-## **DAY 7 OF PYTHON LEARNING JOURNEY**
+## **DAY 8 OF PYTHON LEARNING JOURNEY**
 
 ### What I have learned:
 - format specifiers = {:flags} format a value based on what
