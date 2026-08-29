@@ -1,4 +1,4 @@
-## **DAY 10 OF PYTHON LEARNING JOURNEY**
+## **DAY 12 OF PYTHON LEARNING JOURNEY**
 
 ### What I have learned:
 - I learned about make a countdown timer using Python, also I'm import time library.

@@ -1,4 +1,4 @@
-## **DAY 10 OF PYTHON LEARNING JOURNEY**
+## **DAY 11 OF PYTHON LEARNING JOURNEY**
 
 ### What I have learned:
 - for loops: execute a block of code a fixed number of times. 
